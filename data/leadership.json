@@ -1,0 +1,52 @@
+{
+  "members": [
+    {
+      "id": "leader-1",
+      "name": "Rajesh Kumar",
+      "role": "President",
+      "avatar": "/images/members/rajesh-kumar.jpg",
+      "bio": "Veteran cue sports player with over 20 years of experience. Dedicated to promoting cue sports excellence in Jalandhar District.",
+      "contact": {
+        "email": "president@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX01"
+      },
+      "order": 1
+    },
+    {
+      "id": "leader-2",
+      "name": "Priya Sharma",
+      "role": "Vice President",
+      "avatar": "/images/members/priya-sharma.jpg",
+      "bio": "Former state champion and passionate advocate for youth development in cue sports.",
+      "contact": {
+        "email": "vicepresident@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX02"
+      },
+      "order": 2
+    },
+    {
+      "id": "leader-3",
+      "name": "Amit Singh",
+      "role": "Secretary",
+      "avatar": "/images/members/amit-singh.jpg",
+      "bio": "Experienced administrator with a focus on tournament organization and community engagement.",
+      "contact": {
+        "email": "secretary@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX03"
+      },
+      "order": 3
+    },
+    {
+      "id": "leader-4",
+      "name": "Neha Gupta",
+      "role": "Treasurer",
+      "avatar": "/images/members/neha-gupta.jpg",
+      "bio": "Financial expert ensuring sustainable growth and transparent management of association resources.",
+      "contact": {
+        "email": "treasurer@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX04"
+      },
+      "order": 4
+    }
+  ]
+}

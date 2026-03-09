@@ -1,0 +1,275 @@
+{
+  "hero": {
+    "title": "Jalandhar District Cue Sports Association",
+    "tagline": "Promoting Excellence in Cue Sports",
+    "ctaText": "Learn More",
+    "ctaLink": "/vision",
+    "backgroundImage": "/images/hero/hero-background.svg"
+  },
+  "vision": {
+    "heading": "Our Vision",
+    "description": "Building a thriving cue sports community through dedication, development, and sustainable growth. We envision a future where cue sports flourish in Jalandhar District, creating opportunities for players of all skill levels.",
+    "pillars": [
+      {
+        "title": "Organic Growth",
+        "description": "Fostering natural development of talent through grassroots programs and community engagement, ensuring sustainable expansion of cue sports participation across all age groups."
+      },
+      {
+        "title": "Organic Development",
+        "description": "Nurturing players through structured training programs and mentorship, creating pathways for continuous skill improvement and competitive excellence."
+      },
+      {
+        "title": "Sustainability",
+        "description": "Building lasting infrastructure and partnerships that ensure the long-term viability of cue sports in our region, creating a legacy for future generations."
+      }
+    ]
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "points": [
+      {
+        "title": "Training & Development",
+        "description": "Providing comprehensive coaching programs and training facilities to develop players from beginners to advanced levels, with focus on technique, strategy, and sportsmanship.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Tournament Organization",
+        "description": "Organizing regular competitions and championships that provide competitive opportunities for players, promote the sport, and showcase local talent at district and state levels.",
+        "icon": "🏆"
+      },
+      {
+        "title": "Community Building",
+        "description": "Creating an inclusive and supportive community of cue sports enthusiasts, fostering camaraderie, networking, and shared passion for snooker, billiards, and pool.",
+        "icon": "🤝"
+      },
+      {
+        "title": "Talent Recognition",
+        "description": "Identifying and supporting promising players through recognition programs, sponsorships, and pathways to higher levels of competition, ensuring no talent goes unnoticed.",
+        "icon": "⭐"
+      }
+    ]
+  },
+  "objectives": {
+    "heading": "Our Objectives",
+    "items": [
+      {
+        "number": "1",
+        "title": "Promote the Sport of Snooker",
+        "description": "To actively promote snooker at district, state, and national levels by increasing awareness, visibility, and participation in the sport.",
+        "icon": "🎱"
+      },
+      {
+        "number": "2",
+        "title": "Support & Develop Players",
+        "description": "To provide players with tournament information, ranking updates, training resources, and performance highlights. Helping them grow from beginners to professional-level competitors.",
+        "icon": "👥"
+      },
+      {
+        "number": "3",
+        "title": "Organize & Showcase Tournaments",
+        "description": "To publish schedules, results, fixtures, and photo galleries of local championships, district-level tournaments, and special snooker events ensuring transparency and engagement.",
+        "icon": "🏅"
+      },
+      {
+        "number": "4",
+        "title": "Digital Hub for Members",
+        "description": "To create a centralized platform where members can register for events, access updates and notices, view official announcements, and stay connected with the association.",
+        "icon": "💻"
+      },
+      {
+        "number": "5",
+        "title": "Build a Snooker Community",
+        "description": "To connect players, coaches, referees, sponsors, and fans under one digital platform and encourage sportsmanship and collaboration.",
+        "icon": "🌐"
+      },
+      {
+        "number": "6",
+        "title": "Provide News & Updates",
+        "description": "To keep visitors informed about upcoming matches, player achievements, association activities, and national & international snooker highlights.",
+        "icon": "📰"
+      },
+      {
+        "number": "7",
+        "title": "Encourage Youth Participation",
+        "description": "To inspire young talent by promoting training programs, academies, and development initiatives.",
+        "icon": "🎓"
+      }
+    ]
+  },
+  "leadership": {
+    "heading": "Leadership Team",
+    "description": "Meet our dedicated leadership team committed to excellence in cue sports",
+    "members": [
+      {
+        "id": "leader-1",
+        "name": "Dharminder Singh Lilly",
+        "role": "President",
+        "avatar": "/images/members/dharminder-singh-lilly.jpg",
+        "bio": "Leading the association with dedication and vision to promote cue sports excellence in Jalandhar District."
+      },
+      {
+        "id": "leader-2",
+        "name": "Vivek Chopra",
+        "role": "General Secretary",
+        "avatar": "/images/members/vivek-chopra.jpg",
+        "bio": "Experienced administrator with a focus on tournament organization and community engagement."
+      },
+      {
+        "id": "leader-3",
+        "name": "Rajat Sharma",
+        "role": "Treasurer",
+        "avatar": "/images/members/rajat-sharma.jpg",
+        "bio": "Financial expert ensuring sustainable growth and transparent management of association resources."
+      },
+      {
+        "id": "leader-4",
+        "name": "Rajan Sehgal",
+        "role": "Social Convenor/Secretary",
+        "avatar": "/images/members/rajan-sehgal.jpg",
+        "bio": "Building community connections and fostering engagement among members and stakeholders."
+      }
+    ]
+  },
+  "executive": {
+    "heading": "Executive Committee",
+    "description": "Our executive team working tirelessly to support and grow cue sports",
+    "members": [
+      {
+        "id": "exec-1",
+        "name": "Vikram Malhotra",
+        "role": "Technical Director",
+        "avatar": "/images/members/vikram-malhotra.jpg"
+      },
+      {
+        "id": "exec-2",
+        "name": "Simran Kaur",
+        "role": "Events Coordinator",
+        "avatar": "/images/members/simran-kaur.jpg"
+      },
+      {
+        "id": "exec-3",
+        "name": "Rohit Verma",
+        "role": "Training Manager",
+        "avatar": "/images/members/rohit-verma.jpg"
+      },
+      {
+        "id": "exec-4",
+        "name": "Anjali Patel",
+        "role": "Media Relations Officer",
+        "avatar": "/images/members/anjali-patel.jpg"
+      },
+      {
+        "id": "exec-5",
+        "name": "Karan Mehta",
+        "role": "Membership Coordinator",
+        "avatar": "/images/members/karan-mehta.jpg"
+      },
+      {
+        "id": "exec-6",
+        "name": "Deepika Rao",
+        "role": "Youth Development Officer",
+        "avatar": "/images/members/deepika-rao.jpg"
+      }
+    ]
+  },
+  "news": {
+    "heading": "Latest News",
+    "description": "Stay updated with the latest happenings in cue sports",
+    "items": [
+      {
+        "id": "news-1",
+        "title": "Pankaj Advani Wins World Championship 2024",
+        "slug": "pankaj-advani-world-championship-2024",
+        "description": "Indian cue sports legend Pankaj Advani clinches his 26th world title at the IBSF World Snooker Championship 2024.",
+        "excerpt": "Indian cue sports legend Pankaj Advani clinches his 26th world title at the IBSF World Snooker Championship 2024.",
+        "date": "2024-11-15",
+        "image": "/images/news/pankaj-advani-2024.jpg",
+        "category": "Championship"
+      },
+      {
+        "id": "news-2",
+        "title": "District Championship 2024 Announced",
+        "slug": "district-championship-2024-announced",
+        "description": "Jalandhar District Cue Sports Association announces the annual district championship with record prize money and participation.",
+        "excerpt": "Jalandhar District Cue Sports Association announces the annual district championship with record prize money and participation.",
+        "date": "2024-10-20",
+        "image": "/images/news/district-championship.jpg",
+        "category": "Tournament"
+      },
+      {
+        "id": "news-3",
+        "title": "New Training Facility Inaugurated",
+        "slug": "new-training-facility-inaugurated",
+        "description": "State-of-the-art training facility with 10 professional tables inaugurated to nurture young talent in cue sports.",
+        "excerpt": "State-of-the-art training facility with 10 professional tables inaugurated to nurture young talent in cue sports.",
+        "date": "2024-09-05",
+        "image": "/images/news/training-facility.jpg",
+        "category": "Facility"
+      },
+      {
+        "id": "news-4",
+        "title": "Youth Development Program Launch",
+        "slug": "youth-development-program-launch",
+        "description": "New youth development program aims to identify and train promising young players from schools across the district.",
+        "excerpt": "New youth development program aims to identify and train promising young players from schools across the district.",
+        "date": "2024-08-12",
+        "image": "/images/news/youth-program.jpg",
+        "category": "Program"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Get in Touch",
+    "email": "info@jalandharcuesports.org",
+    "phone": "+91-XXX-XXX-XXXX",
+    "address": "Jalandhar, Punjab, India"
+  },
+  "footer": {
+    "about": {
+      "heading": "About",
+      "text": "Jalandhar District Cue Sports Association is dedicated to promoting and developing cue sports in the region. We organize tournaments, provide training facilities, and support players in their journey to excellence."
+    },
+    "galleries": [
+      {
+        "title": "Tournament Gallery",
+        "url": "/gallery/tournaments"
+      },
+      {
+        "title": "Training Sessions",
+        "url": "/gallery/training"
+      },
+      {
+        "title": "Championship Events",
+        "url": "/gallery/championships"
+      }
+    ],
+    "contact": {
+      "heading": "Contact",
+      "email": "info@jalandharcuesports.org",
+      "phone": "+91-XXX-XXX-XXXX",
+      "address": "Jalandhar, Punjab, India"
+    },
+    "social": [
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/jalandharcuesports",
+        "icon": "facebook"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/jalandharcuesports",
+        "icon": "twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/jalandharcuesports",
+        "icon": "instagram"
+      },
+      {
+        "platform": "YouTube",
+        "url": "https://youtube.com/@jalandharcuesports",
+        "icon": "youtube"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "members": [
+    {
+      "id": "exec-1",
+      "name": "Vikram Malhotra",
+      "role": "Technical Director",
+      "avatar": "/images/members/vikram-malhotra.jpg",
+      "contact": {
+        "email": "technical@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX11"
+      },
+      "order": 1
+    },
+    {
+      "id": "exec-2",
+      "name": "Simran Kaur",
+      "role": "Events Coordinator",
+      "avatar": "/images/members/simran-kaur.jpg",
+      "contact": {
+        "email": "events@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX12"
+      },
+      "order": 2
+    },
+    {
+      "id": "exec-3",
+      "name": "Rohit Verma",
+      "role": "Training Manager",
+      "avatar": "/images/members/rohit-verma.jpg",
+      "contact": {
+        "email": "training@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX13"
+      },
+      "order": 3
+    },
+    {
+      "id": "exec-4",
+      "name": "Anjali Patel",
+      "role": "Media Relations Officer",
+      "avatar": "/images/members/anjali-patel.jpg",
+      "contact": {
+        "email": "media@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX14"
+      },
+      "order": 4
+    },
+    {
+      "id": "exec-5",
+      "name": "Karan Mehta",
+      "role": "Membership Coordinator",
+      "avatar": "/images/members/karan-mehta.jpg",
+      "contact": {
+        "email": "membership@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX15"
+      },
+      "order": 5
+    },
+    {
+      "id": "exec-6",
+      "name": "Deepika Rao",
+      "role": "Youth Development Officer",
+      "avatar": "/images/members/deepika-rao.jpg",
+      "contact": {
+        "email": "youth@jalandharcuesports.org",
+        "phone": "+91-XXX-XXX-XX16"
+      },
+      "order": 6
+    }
+  ]
+}

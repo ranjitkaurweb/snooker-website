@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "slug": "pankaj-advani-world-championship-2024",
+      "title": "Pankaj Advani Wins Record 27th World Title",
+      "description": "Indian snooker legend Pankaj Advani clinches his 27th world championship title, defeating England's Robert Hall in a thrilling final at the IBSF World Snooker Championship.",
+      "image": "/images/news/pankaj-advani-championship.jpg",
+      "date": "2024-01-15T10:00:00Z",
+      "category": "Championships"
+    },
+    {
+      "slug": "youth-snooker-program-launch",
+      "title": "New Youth Development Program Launched in Punjab",
+      "description": "Punjab Billiards and Snooker Association announces comprehensive youth development program aimed at identifying and nurturing young talent across the state, with special focus on grassroots training.",
+      "image": "/images/news/youth-program-launch.jpg",
+      "date": "2024-01-10T14:30:00Z",
+      "category": "Development"
+    },
+    {
+      "slug": "national-snooker-championship-dates",
+      "title": "National Snooker Championship 2024 Dates Announced",
+      "description": "The Billiards and Snooker Federation of India (BSFI) has announced the dates for the upcoming National Snooker Championship, scheduled to take place in Mumbai from March 15-25, 2024.",
+      "image": "/images/news/national-championship-announcement.jpg",
+      "date": "2024-01-05T09:00:00Z",
+      "category": "Tournaments"
+    },
+    {
+      "slug": "women-snooker-rising-india",
+      "title": "Women's Snooker Gaining Momentum in India",
+      "description": "With increasing participation and support, women's snooker is experiencing unprecedented growth in India. New initiatives and tournaments are providing platforms for female players to showcase their talent.",
+      "image": "/images/news/women-snooker-india.jpg",
+      "date": "2023-12-28T11:00:00Z",
+      "category": "News"
+    },
+    {
+      "slug": "coaching-clinic-jalandhar",
+      "title": "International Coaching Clinic Coming to Jalandhar",
+      "description": "Renowned international coach Michael Stevens will conduct a special coaching clinic in Jalandhar next month, offering advanced training techniques and personalized guidance to aspiring players.",
+      "image": "/images/news/coaching-clinic.jpg",
+      "date": "2023-12-20T16:00:00Z",
+      "category": "Training"
+    },
+    {
+      "slug": "state-championship-results",
+      "title": "Punjab State Snooker Championship Results",
+      "description": "Complete results from the recently concluded Punjab State Snooker Championship, featuring outstanding performances from local players and emerging talents from across the state.",
+      "image": "/images/news/state-championship-results.jpg",
+      "date": "2023-12-15T13:00:00Z",
+      "category": "Results"
+    }
+  ]
+}
